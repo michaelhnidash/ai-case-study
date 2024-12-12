@@ -113,8 +113,8 @@ Zest AI is significantly smaller in team size compared to HighRadius and others,
 
 ### Strategic Product Recommendations: Embedded Lending and Green Loan Solutions
 
-> Embedded Lending AI Solution:
-Develop an Embedded Lending AI Solution to integrate Zest AI’s credit underwriting capabilities into non-financial platforms such as e-commerce, travel, and retail apps.
+> **Embedded Lending AI Solution:
+Develop an Embedded Lending AI Solution to integrate Zest AI’s credit underwriting capabilities into non-financial platforms such as e-commerce, travel, and retail apps.**
 
 _Rationale:_ 
 * Embedded finance accounted for $2.6 trillion in US financial transactions in 2021 and is projected to exceed $7 trillion by 2026, representing over 10% of total transaction value.
@@ -127,8 +127,8 @@ _Benefits for Zest AI:_
 _Required Technologies:_ 
 * API integrations, real-time AI decision-making, and scalable architecture to handle high transaction volumes seamlessly.
 
-> Green Loan Risk Assessment Tool:
-Develop a Green Loan Risk Assessment Tool to help financial institutions evaluate and manage the risks associated with environmentally sustainable loans, such as those for renewable energy projects, electric vehicles, and sustainable infrastructure.
+> **Green Loan Risk Assessment Tool:
+Develop a Green Loan Risk Assessment Tool to help financial institutions evaluate and manage the risks associated with environmentally sustainable loans, such as those for renewable energy projects, electric vehicles, and sustainable infrastructure.**
 
 _Rationale:_ 
 * The Global Green Finance Market size is expected to be worth around USD 22,754 Billion by 2033, from USD 3,192.61 Billion in 2023, growing at a CAGR of 21.7% during the forecast period from 2024 to 2033.
