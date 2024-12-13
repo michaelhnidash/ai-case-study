@@ -83,7 +83,7 @@ Zest ended 2023 with more than 175 customers, up from 105 a year earlier.
 * Risk Reduction:
 The platform achieves over a 20% reduction in risk while keeping approval rates constant.
 
-### Zest ai performance in comparison to competitors:
+### Zest Ai performance in comparison to competitors:
 
 * Funding and Valuation
 
