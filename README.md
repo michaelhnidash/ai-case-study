@@ -18,18 +18,17 @@
 
 * Zest AI’s technology is solving this huge problem by automating consumer credit underwriting with more accurate and equitable lending insights — supporting our mission to broaden access to credit and enable financial equity for all.
 
-* Zest AI primarily serves financial institutions, including banks, credit unions, and lending organizations, by providing AI-driven credit underwriting solutions to enhance lending decisions. A number of the most innovative lending organizations, such as Citibank, First National Bank of Omaha, Truist, Golden 1 Credit Union, Suncoast Credit Union, and Hawaii USA Federal Credit Union, have partnered with Zest AI to modernize their lending business. As of 2023, Zest AI's client base has grown to over 175 customers, up from 105 in the previous year. The global credit risk assessment market, encompassing credit underwriting software, was valued at approximately $7.31 billion in 2023 and is projected to reach $18.43 billion by 2030, growing at a CAGR of 14.1%.
+* Zest AI primarily serves financial institutions, including banks, credit unions, and lending organizations. A number of the most innovative lending organizations, such as Citibank, First National Bank of Omaha, Truist, Golden 1 Credit Union, Suncoast Credit Union, and Hawaii USA Federal Credit Union, have partnered with Zest AI to modernize their lending business.
+
+* Its client base grew to over 175 in 2023, up from 105 in 2022. The global credit risk assessment market, valued at $7.31 billion in 2023, is projected to reach $18.43 billion by 2030, with a CAGR of 14.1%.
 
 ### **Benefits compared to competitors:**
 
-* _Advanced Machine Learning for Credit Underwriting:_
- Zest AI uses an end-to-end ML modeling workflow to ingest credit application data, historical repayment behavior, credit bureau attributes, and custom data sources. Their platform automates feature engineering, model selection, and hyperparameter tuning to produce highly predictive risk models. These models often outperform traditional scorecards and bureau-based models by uncovering non-linear relationships and subtle interactions.
+* **Advanced Machine Learning for Credit Underwriting:** Zest AI creates highly accurate risk models by automating feature engineering and uncovering non-linear relationships in data.
 
-* _Fairness and Bias Mitigation:_
- Beyond accuracy, Zest AI explicitly focuses on fairness. Their platform can run assessments on protected classes, checking for disparate impact and introducing constraints that reduce bias in approvals. If certain attributes (e.g., income or zip code) inadvertently cause disproportionate outcomes, data scientists can identify and mitigate these effects during the model-building stage.
+* **Fairness and Bias Mitigation:** The platform reduces bias in credit decisions by identifying and addressing disproportionate outcomes from sensitive attributes.
 
-* _Compliance-Ready Workflows:_
-Lending is heavily regulated. Zest AI incorporates compliance measures into the model development pipeline. Their platform ensures that model outputs and adverse action reason codes comply with regulations like the Equal Credit Opportunity Act (ECOA) and the Fair Credit Reporting Act (FCRA). By doing so, they mitigate the risk of biased outcomes and discriminatory lending practices, facilitating alignment with regulatory bodies and internal compliance teams.
+* **Compliance-Ready Workflows:** And it also ensures models comply with regulations like ECOA and FCRA, integrating compliance directly into the development process.
 
 ### **They currently use the following technologies:**
 
@@ -66,7 +65,7 @@ Lending is heavily regulated. Zest AI incorporates compliance measures into the 
 
 ## Results
 
-### Zest AI Achieves Remarkable Growth and Expands Client Base, Earning Spot on 2024 Deloitte Technology Fast 500™
+### Business Impact and Growth Achievements:
 
 * _Revenue Growth:_ The company achieved a 368% revenue increase, earning a spot at 318 on the 2024 Deloitte Technology Fast 500™ list.
 
@@ -85,15 +84,7 @@ Zest ended 2023 with more than 175 customers, up from 105 a year earlier.
 * _Risk Reduction:_
 The platform achieves over a 20% reduction in risk while keeping approval rates constant.
 
-### Darktrace's performance in comparison to competitors
-
-![alt text](https://i.postimg.cc/Pf0nN91Y/1.jpg)
-![alt text](https://i.postimg.cc/VvqgfJj7/2.jpg)
-![alt text](https://i.postimg.cc/G3GqJ5Zk/3.jpg)
-![alt text](https://i.postimg.cc/QxqmvWNC/4.jpg)
-## Recommendations
-
-### Advising: Product and Service Expansion Opportunities for Growth
+### Zest Ai performance in comparison to competitors
 
 * _Funding and Valuation_
 
@@ -110,6 +101,10 @@ DataRobot: 958 employees (-1% decrease).
 Ocrolus: 718 employees.
 Analysis:
 Zest AI is significantly smaller in team size compared to HighRadius and others, which suggests a leaner operation with a more focused scope.
+
+![alt text](https://i.postimg.cc/VvqgfJj7/2.jpg)
+
+## Recommendations
 
 ### Strategic Product Recommendations: Embedded Lending and Green Loan Solutions
 
@@ -147,27 +142,50 @@ _Required Technologies:_
 
 ## References:
 
-* [AI Critique. (n.d.). Zest AI explainable AI profile.](https://www.aicritique.org/us/explainable/zest-ai/)
-* [AIMagazine. (n.d.). How Zest AI enables fair and transparent lending with AI.](https://aimagazine.com/ai-applications/how-zest-ai-enables-fair-and-transparent-lending-with-ai)
-* [AIMagazine. (n.d.). Top 10 companies changing the future of finance with AI.](https://aimagazine.com/top10/top-10-companies-changing-the-future-of-finance-with-ai)
-* [Bain & Company. (n.d.). Embedded finance.](https://www.bain.com/insights/embedded-finance)
-* [CFA Institute. (2024, October). 6 steps to navigate the regulatory risks of AI in banking.](https://blogs.cfainstitute.org/investor/2024/10/21/6-steps-to-navigate-the-regulatory-risks-of-ai-in-banking/)
-* [CGAA. (n.d.). Predictive risk modeling.](https://www.cgaa.org/article/predictive-risk-modeling)
-* [Coherent Market Insights. (n.d.). Credit risk assessment market.](https://www.coherentmarketinsights.com/industry-reports/credit-risk-assessment-market)
-* [Consumer Financial Protection Bureau. (2024). CFPB issues guidance on credit denials by lenders using artificial intelligence.](https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/)
-* [Deloitte. (2021). ESG data: Managing sustainability at scale.](https://www2.deloitte.com/content/dam/Deloitte/dk/Documents/Grabngo/ESG_Data_April2021.pdf)
-* [Experian. (n.d.). Alternative credit data solutions.](https://www.experian.com/business/solutions/data-solutions/alternative-credit-data)
-* [FinTech Association. (n.d.). FinTech explained: Q&A with Mike de Vere, CEO at Zest AI.](https://www.ftassociation.org/fintech-explained-qa-with-mike-de-vere-ceo-at-zest-ai)
-* [Forbes. (n.d.). Zest AI.](https://www.forbes.com/companies/zest-ai)
-* [Future Market Insights. (n.d.). Embedded finance market report.](https://www.futuremarketinsights.com/reports/embedded-finance-market)
-* [Goodwin Law. (2024, October). Double-clicking on innovation in consumer finance.](https://www.goodwinlaw.com/en/insights/publications/2024/10/insights-finance-ftec-double-clicking-on-innovation-in-consumer)
-* [Market.US. (n.d.). Green finance market report.](https://market.us/report/green-finance-market)
-* [McKinsey & Company. (n.d.). ESG data governance: A growing imperative for banks.](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/esg-data-governance-a-growing-imperative-for-banks)
-* [OpenAPI Hub. (n.d.). Role of AI gateways in building AI apps at scale.](https://blog.openapihub.com/en-us/role-of-ai-gateways-in-building-ai-apps-at-scale)
-* [PRNewswire. (2024). Zest AI ranked as a fastest-growing company in North America on the 2024 Deloitte Technology Fast 500.](https://www.prnewswire.com/news-releases/zest-ai-ranked-as-a-fastest-growing-company-in-north-america-on-the-2024-deloitte-technology-fast-500-302313370.html)
-* [Striim. (n.d.). Data integration strategies for AI.](https://www.striim.com/blog/data-integration-strategies-ai)
-* [Zest AI. (n.d.). About Us.](https://www.zest.ai/company/about-us/)
-* [Zest AI. (n.d.). Fraud detection.](https://www.zest.ai/product/fraud-detection)
-* [Zest AI. (n.d.). Lending intelligence.](https://www.zest.ai/product/lending-intelligence)
-* [Zest AI. (n.d.). Underwriting.](https://www.zest.ai/product/underwriting)
-* [Zest AI. (n.d.). Zest AI secures capital fintech investors, partners, and customers.](https://www.zest.ai/company/announcements/zest-ai-secures-capital-fintech-investors-partners-customers)
+* AI Critique. (n.d.). Zest AI explainable AI profile. Retrieved from https://www.aicritique.org/us/explainable/zest-ai/
+
+* AIMagazine. (n.d.). How Zest AI enables fair and transparent lending with AI. Retrieved from https://aimagazine.com/ai-applications/how-zest-ai-enables-fair-and-transparent-lending-with-ai
+
+* AIMagazine. (n.d.). Top 10 companies changing the future of finance with AI. Retrieved from https://aimagazine.com/top10/top-10-companies-changing-the-future-of-finance-with-ai
+
+* Bain & Company. (n.d.). Embedded finance. Retrieved from https://www.bain.com/insights/embedded-finance
+
+* CFA Institute. (2024, October). 6 steps to navigate the regulatory risks of AI in banking. Retrieved from https://blogs.cfainstitute.org/investor/2024/10/21/6-steps-to-navigate-the-regulatory-risks-of-ai-in-banking/
+
+* CGAA. (n.d.). Predictive risk modeling. Retrieved from https://www.cgaa.org/article/predictive-risk-modeling
+
+* Coherent Market Insights. (n.d.). Credit risk assessment market. Retrieved from https://www.coherentmarketinsights.com/industry-reports/credit-risk-assessment-market
+
+* Consumer Financial Protection Bureau. (2024). CFPB issues guidance on credit denials by lenders using artificial intelligence. Retrieved from https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-on-credit-denials-by-lenders-using-artificial-intelligence/
+
+* Deloitte. (2021). ESG data: Managing sustainability at scale. Retrieved from https://www2.deloitte.com/content/dam/Deloitte/dk/Documents/Grabngo/ESG_Data_April2021.pdf
+
+* Experian. (n.d.). Alternative credit data solutions. Retrieved from https://www.experian.com/business/solutions/data-solutions/alternative-credit-data
+
+* FinTech Association. (n.d.). FinTech explained: Q&A with Mike de Vere, CEO at Zest AI. Retrieved from https://www.ftassociation.org/fintech-explained-qa-with-mike-de-vere-ceo-at-zest-ai
+
+* Forbes. (n.d.). Zest AI. Retrieved from https://www.forbes.com/companies/zest-ai
+
+* Future Market Insights. (n.d.). Embedded finance market report. Retrieved from https://www.futuremarketinsights.com/reports/embedded-finance-market
+
+* Goodwin Law. (2024, October). Double-clicking on innovation in consumer finance. Retrieved from https://www.goodwinlaw.com/en/insights/publications/2024/10/insights-finance-ftec-double-clicking-on-innovation-in-consumer
+
+* Market.US. (n.d.). Green finance market report. Retrieved from https://market.us/report/green-finance-market
+
+* McKinsey & Company. (n.d.). ESG data governance: A growing imperative for banks. Retrieved from https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/esg-data-governance-a-growing-imperative-for-banks
+
+* OpenAPI Hub. (n.d.). Role of AI gateways in building AI apps at scale. Retrieved from https://blog.openapihub.com/en-us/role-of-ai-gateways-in-building-ai-apps-at-scale
+
+* PRNewswire. (2024). Zest AI ranked as a fastest-growing company in North America on the 2024 Deloitte Technology Fast 500. Retrieved from https://www.prnewswire.com/news-releases/zest-ai-ranked-as-a-fastest-growing-company-in-north-america-on-the-2024-deloitte-technology-fast-500-302313370.html
+
+* Striim. (n.d.). Data integration strategies for AI. Retrieved from https://www.striim.com/blog/data-integration-strategies-ai
+
+* Zest AI. (n.d.). About Us. Retrieved from https://www.zest.ai/company/about-us/
+
+* Zest AI. (n.d.). Fraud detection. Retrieved from https://www.zest.ai/product/fraud-detection
+
+* Zest AI. (n.d.). Lending intelligence. Retrieved from https://www.zest.ai/product/lending-intelligence
+
+* Zest AI. (n.d.). Underwriting. Retrieved from https://www.zest.ai/product/underwriting
+
+* Zest AI. (n.d.). Zest AI secures capital fintech investors, partners, and customers. Retrieved from https://www.zest.ai/company/announcements/zest-ai-secures-capital-fintech-investors-partners-customers
