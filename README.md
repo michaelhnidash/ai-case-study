@@ -83,7 +83,7 @@ Zest ended 2023 with more than 175 customers, up from 105 a year earlier.
 * Risk Reduction:
 The platform achieves over a 20% reduction in risk while keeping approval rates constant.
 
-### Zest ai performance in comparison to competitors
+### Zest ai performance in comparison to competitors:
 
 * Funding and Valuation
 
@@ -125,7 +125,7 @@ Required Technologies:
 > **Green Loan Risk Assessment Tool:
 Develop a Green Loan Risk Assessment Tool to help financial institutions evaluate and manage the risks associated with environmentally sustainable loans, such as those for renewable energy projects, electric vehicles, and sustainable infrastructure.**
 
-_Rationale:_ 
+Rationale:
 * The Global Green Finance Market size is expected to be worth around USD 22,754 Billion by 2033, from USD 3,192.61 Billion in 2023, growing at a CAGR of 21.7% during the forecast period from 2024 to 2033.
 
 The market is characterized by its potential for high returns, coupled with environmental benefits. Green finance is not only about making a profit but also about contributing to a sustainable future. This market is expected to expand as more organizations commit to reducing their carbon footprint and embracing sustainability.
