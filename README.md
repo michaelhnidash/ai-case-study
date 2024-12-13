@@ -6,11 +6,11 @@
 
 * A pioneer in AI lending innovation since 2009.
 
-* **_CEO_**: Mike de Vere, 50.
+* **CEO**: Mike de Vere, 50.
 
-  **_Cofounders_**: Former CEO Douglas Merrill, 53; former president Shawn Budde, 58.
+  **Cofounders**: Former CEO Douglas Merrill, 53; former president Shawn Budde, 58.
 
-> _**Douglas Merrill, a former Google executive, founded Zest AI in 2009 to leverage machine learning and big data analytics for enhancing credit underwriting processes, aiming to make credit more accessible and fair. The company is on a mission to make fair and transparent credit available to everyone and have grown to become a leader in inclusive underwriting software.**_
+> **Douglas Merrill, a former Google executive, founded Zest AI in 2009 to leverage machine learning and big data analytics for enhancing credit underwriting processes, aiming to make credit more accessible and fair. The company is on a mission to make fair and transparent credit available to everyone and have grown to become a leader in inclusive underwriting software.**
 
 * Zest AI secures growth capital from fintech investors, strategic partners, and customers to advance the next generation of AI-automated underwriting. As of November 2022, Zest AI has raised over $50 million in a growth funding round co-led by Insight Partners and CMFG Ventures, with participation from CU Direct, Curql, Suncoast Credit Union, Golden1 Credit Union, Hawaii USA Federal Credit Union, and NorthGate Capital. This brings the company's total funding to approximately $120 million. 
 
@@ -43,13 +43,13 @@
 
 * Zest AI operates in the financial technology (fintech) field, specifically focusing on credit underwriting and risk assessment.
 
-### **Trends and Innovations in AI and Fintech:**
+### **Trends and innovations in fintech:**
 
- * _Focus on Fair Lending Practices:_ Regulators and consumers have pushed for more equitable lending practices. AI-driven platforms now incorporate fairness assessments to mitigate biases and ensure compliance with laws like ECOA and FCRA.
+ * Focus on Fair Lending Practices: Regulators and consumers have pushed for more equitable lending practices. AI-driven platforms now incorporate fairness assessments to mitigate biases and ensure compliance with laws like ECOA and FCRA.
 
- * _Regulatory Technology (RegTech):_ Innovations in compliance technology ensure models adhere to stringent regulations, making fintech solutions more transparent and aligned with legal requirements.
+ * Regulatory Technology (RegTech): Innovations in compliance technology ensure models adhere to stringent regulations, making fintech solutions more transparent and aligned with legal requirements.
 
- * _Expansion of Alternative Data Sources:_ Alternative credit data provides a clearer view of a consumer’s financial situation and ability to pay. Types of alternative credit data used across the credit spectrum include user-permissioned account data, cashflow transactions, rental data, property data, income data, and full-file public records, as well as data from nontraditional lenders such as single pay, rent-to-own, title loans and short-term installments.
+ * Expansion of Alternative Data Sources:_ Alternative credit data provides a clearer view of a consumer’s financial situation and ability to pay. Types of alternative credit data used across the credit spectrum include user-permissioned account data, cashflow transactions, rental data, property data, income data, and full-file public records, as well as data from nontraditional lenders such as single pay, rent-to-own, title loans and short-term installments.
 
   **Other major companies in this field:**
 * [High Radius](https://www.highradius.com/)
@@ -65,34 +65,34 @@
 
 ## Results
 
-### Business Impact and Growth Achievements:
+### Business impact and growth achievements:
 
-* _Revenue Growth:_ The company achieved a 368% revenue increase, earning a spot at 318 on the 2024 Deloitte Technology Fast 500™ list.
+* Revenue Growth: The company achieved a 368% revenue increase, earning a spot at 318 on the 2024 Deloitte Technology Fast 500™ list.
 
-* _Loan Approvals:_ Over the past four years, Zest AI's technology has facilitated the assessment of more than 39 million consumer loan applications, resulting in $250 billion in loans granted.
+* Loan Approvals: Over the past four years, Zest AI's technology has facilitated the assessment of more than 39 million consumer loan applications, resulting in $250 billion in loans granted.
 
-* _Client Expansion:_ In the past four years, the company has also increased its customer base by more than 50 percent yearly, from some of the country's smallest credit unions to the biggest banks, which collectively serve over 110 million people and $5.5 Trillion in assets under management.
+* Client Expansion: In the past four years, the company has also increased its customer base by more than 50 percent yearly, from some of the country's smallest credit unions to the biggest banks, which collectively serve over 110 million people and $5.5 Trillion in assets under management.
 
-### Performance Across Key Industry Metrics:
+### Performance across key industry metrics:
 
-* _Loan Approval Rates:_
+* Loan Approval Rates:
 The company reports a 49% increase in approvals for Latino applicants, 41% for Black applicants, and 40% for women, demonstrating a strong focus on equitable lending.
 
-* _Customer base growth:_
+* Customer base growth:
 Zest ended 2023 with more than 175 customers, up from 105 a year earlier.
 
-* _Risk Reduction:_
+* Risk Reduction:
 The platform achieves over a 20% reduction in risk while keeping approval rates constant.
 
-### Zest Ai performance in comparison to competitors
+### Zest ai performance in comparison to competitors
 
-* _Funding and Valuation_
+* Funding and Valuation
 
 > Zest AI: Total funding raised: $88 million. Valuation: $276.9 million.
 HighRadius: Total funding raised: $475 million. Valuation: $1 billion.
 Signifyd: Total funding raised: $300 million. Valuation: $1.1 billion.
 
-* _Employees_
+* Employees
 
 > Zest AI: 164 employees (+9% increase).
 HighRadius: 4,571 employees.
@@ -111,15 +111,15 @@ Zest AI is significantly smaller in team size compared to HighRadius and others,
 > **Embedded Lending AI Solution:
 Develop an Embedded Lending AI Solution to integrate Zest AI’s credit underwriting capabilities into non-financial platforms such as e-commerce, travel, and retail apps.**
 
-_Rationale:_ 
+Rationale:
 * Embedded finance accounted for $2.6 trillion in US financial transactions in 2021 and is projected to exceed $7 trillion by 2026, representing over 10% of total transaction value.
 
-_Benefits for Zest AI:_
+Benefits for Zest AI:
 * Tap into a rapidly growing market by offering real-time credit decisions at the point of sale.
 * Enhance customer access to credit while improving user experience for partner platforms.
 * Expand the company's reach to new industries beyond traditional financial services.
 
-_Required Technologies:_ 
+Required Technologies: 
 * API integrations, real-time AI decision-making, and scalable architecture to handle high transaction volumes seamlessly.
 
 > **Green Loan Risk Assessment Tool:
@@ -130,12 +130,12 @@ _Rationale:_
 
 The market is characterized by its potential for high returns, coupled with environmental benefits. Green finance is not only about making a profit but also about contributing to a sustainable future. This market is expected to expand as more organizations commit to reducing their carbon footprint and embracing sustainability.
 
-_Benefits for Zest AI:_
+Benefits for Zest AI:
 * Position Zest AI as a leader in sustainable fintech solutions, capturing a growing segment of the finance market.
 * Enable lenders to align with ESG goals and attract environmentally conscious investors.
 * Help financial institutions meet regulatory requirements while assessing long-term profitability and environmental impact.
 
-_Required Technologies:_
+Required Technologies:
 * ESG data integration for assessing environmental and social impact.
 * Predictive risk modeling for evaluating the financial performance of green projects.
 * Advanced analytics and reporting tools to provide actionable insights for lenders and regulators.
