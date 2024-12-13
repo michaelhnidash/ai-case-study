@@ -48,7 +48,7 @@
 
  * Regulatory Technology (RegTech): Innovations in compliance technology ensure models adhere to stringent regulations, making fintech solutions more transparent and aligned with legal requirements.
 
- * Expansion of Alternative Data Sources:_ Alternative credit data provides a clearer view of a consumer’s financial situation and ability to pay. Types of alternative credit data used across the credit spectrum include user-permissioned account data, cashflow transactions, rental data, property data, income data, and full-file public records, as well as data from nontraditional lenders such as single pay, rent-to-own, title loans and short-term installments.
+ * Expansion of Alternative Data Sources: Alternative credit data provides a clearer view of a consumer’s financial situation and ability to pay. Types of alternative credit data used across the credit spectrum include user-permissioned account data, cashflow transactions, rental data, property data, income data, and full-file public records, as well as data from nontraditional lenders such as single pay, rent-to-own, title loans and short-term installments.
 
   **Other major companies in this field:**
 * [High Radius](https://www.highradius.com/)
