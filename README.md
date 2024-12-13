@@ -38,7 +38,6 @@
 * Fairness and Bias Mitigation.
 * Scalability and Integration.
 
-
 ## Landscape
 
 * Zest AI operates in the financial technology (fintech) field, specifically focusing on credit underwriting and risk assessment.
@@ -103,10 +102,11 @@ Analysis:
 Zest AI is significantly smaller in team size compared to HighRadius and others, which suggests a leaner operation with a more focused scope.
 
 ![alt text](https://i.postimg.cc/VvqgfJj7/2.jpg)
+* A comparison table showcasing five companies: Zest AI, HighRadius, Signifyd, DataRobot, and Ocrolus. The table highlights founding dates, company types (all private), and focus areas. Zest AI, founded in 2009, specializes in AI-driven financial technology for credit unions. HighRadius (2006) focuses on automation and enterprise finance software. Signifyd (2011) provides e-commerce fraud protection platforms. DataRobot (2012) develops predictive AI platforms, and Ocrolus (2014) offers AI-driven document processing automation.
 
 ## Recommendations
 
-### Strategic Product Recommendations: Embedded Lending and Green Loan Solutions
+### Strategic product recommendations: Embedded lending and green loan solutions
 
 > **Embedded Lending AI Solution:
 Develop an Embedded Lending AI Solution to integrate Zest AI’s credit underwriting capabilities into non-financial platforms such as e-commerce, travel, and retail apps.**
